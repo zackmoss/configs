@@ -1,0 +1,8 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        // Switch between terminals
+        "key": "cmd+shift+enter",
+        "command": "workbench.action.terminal.focusNext"
+    }
+]

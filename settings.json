@@ -1,0 +1,24 @@
+{
+    // Workbench Settings
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": false,
+    
+    // Editor Settings
+    "editor.minimap.enabled": false,
+    "editor.rulers": [115],
+
+    // Theme Settings
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#383838",
+        "statusBar.noFolderBackground": "#383838",
+        "statusBar.border": "#404242",
+        "statusBarItem.remoteBackground": "#DA4339",
+        "titleBar.activeBackground": "#383838",
+        "titleBar.border": "#404242",
+    },
+
+    // Python Settings
+    "python.pythonPath": "/usr/bin/python3"
+}
